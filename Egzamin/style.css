@@ -1,0 +1,45 @@
+body {
+    font-family: Garamond;
+}
+
+.navi {
+    background-color: SaddleBrown;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+.lewy {
+    float: left;
+    background-color: tan;
+    height: 500px;
+    width: 40%;
+
+}
+
+.prawy1, .prawy2 {
+    float: left;
+    background-color: tan;
+    height: 250px;
+    width: 60%;
+}
+
+footer {
+    background-color: saddlebrown;
+    clear: both;
+    color: white;
+}
+
+form {
+    background-color: saddlebrown;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 300px;
+}
+
+input {
+    margin: 5px;
+}
